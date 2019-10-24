@@ -45,6 +45,7 @@ Skills/Libraries Used:
 - MatplotLib
 - Seaborn
 - NLTK
+- Scikit-Learn
 - Regular Expressions (Regex)
 - Logistic Regression
 - Grid Search CV (Hyperparameters)
@@ -57,3 +58,5 @@ Skills/Libraries Used:
 ### Project 4: Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN) ###
 
 # Ongoing! Stay tuned..... :D
+
+
