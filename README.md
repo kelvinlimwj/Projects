@@ -32,17 +32,19 @@ Skills/Libraries Used:
 
 ### Project 3: Project 3 1. Classification models using Natural Language Processing (NLP)
 
-Classification between two different subreddit posts into their respective subreddits using Natural Language Processing.
+Classification between two different subreddit posts into their respective subreddits using Natural Language Processing. 
 
 1. Webscraping
 2. Data Cleaning
-3. Modelling
+3. Modelling 
+  - Created GridSearchCV Function to run various regression models with different word vectorizers for NLP
 
 Skills/Libraries Used: 
 - Python Pandas
 - Numpy
 - MatplotLib
 - Seaborn
+- NLTK
 - Regular Expressions (Regex)
 - Logistic Regression
 - Grid Search CV (Hyperparameters)
