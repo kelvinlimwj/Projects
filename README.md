@@ -37,7 +37,7 @@ Classification between two different subreddit posts into their respective subre
 1. Webscraping
 2. Data Cleaning
 3. Modelling 
-  - Created GridSearchCV Function to run various regression models with different word vectorizers for NLP
+  - Created GridSearchCV Function to run various regression models with different word vectorizers for NLP via usage of data pipelines
 
 Skills/Libraries Used: 
 - Python Pandas
@@ -48,6 +48,7 @@ Skills/Libraries Used:
 - Regular Expressions (Regex)
 - Logistic Regression
 - Grid Search CV (Hyperparameters)
+- PipeLine
 - API Application for WebScraping (Reddit)
 - Decision Tree Models
 - Random Forest Models
