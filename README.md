@@ -1,6 +1,6 @@
 # Projects Overview
 
-### Standardized Testing, Statistical Summaries and Inference (Project 1)
+## Standardized Testing, Statistical Summaries and Inference (Project 1)
 
 Description: Aggregate SAT and ACT scores and participation rates from each state in the United States are analysed.
 Seeked to identify trends in the data and combine our data analysis with outside research to identify likely factors influencing participation rates and scores in various states.
@@ -11,7 +11,7 @@ Skills/Libraries Used:
 - MatplotLib
 - Seaborn
 
-### Ames Housing Data and Kaggle Challenge (Linear Regression) (Project 2)
+## Ames Housing Data and Kaggle Challenge (Linear Regression) (Project 2)
 
 Description: Tasked with creating a regression model based on the Ames Housing Dataset. 
 This model will predict the price of a house at sale in Ames, Iowa in United States.
@@ -30,7 +30,7 @@ Skills/Libraries Used:
 - Train-Test-Split
 - Cross Validation Score
 
-### Classification models using Natural Language Processing (NLP) (Project 3)
+## Classification models using Natural Language Processing (NLP) (Project 3)
 
 Classification between two different subreddit posts into their respective subreddits using Natural Language Processing. 
 
@@ -55,11 +55,11 @@ Skills/Libraries Used:
 - Random Forest Models
 - Support Vector Machines (SVM)
 
-### Predictive Modelling (Project 4) ###
+## Predictive Modelling (Project 4) 
 
 To develop a predictive model that will forecast the probability of WNV presence in 138 mosquito traps around Chicago over the course of a season. WNV is a communicable disease that is spread through its most common vector, mosquitoes.
 
-# Executive Summary
+#### Executive Summary
 - Data cleaning and EDA done on the train/test, weather and spray datasets
     - Train.csv was split into a training set and testing set. EDA was done on the training set.
 - General observed trends:
@@ -71,7 +71,7 @@ To develop a predictive model that will forecast the probability of WNV presence
 - Cost-benefit analysis done for spraying pesticide. It was concluded that usage of pesticide was not worth the amount of money for the effect it created.
 - Modelling was done with various classification models, with the best being an XGBoost model.
 
-# Data Dictionary
+#### Data Dictionary
 |Feature|Type|Usage in model|Description|
 |-------|----|-----|-----------|
 |WnvPresent|*int*|Target Variable|The target variable; whether the sample contains WNV (1) or not (0)|
@@ -82,7 +82,7 @@ To develop a predictive model that will forecast the probability of WNV presence
 |DewPoint_rolling|*float*|Predictor Variable|3, 7, 14 days rolling avgs. for Tavg|
 |Days_since_rain|*int*|Predictor Variable|The number of days since a rain day|
 
-# Conclusion
+#### Conclusion
 - Danger periods are during the summer months of Chicago, i.e. July and August
 - Clear seasonality observed for weather data
 - Spraying does not provide any benefits to justify the cost
@@ -98,6 +98,6 @@ To develop a predictive model that will forecast the probability of WNV presence
 - Usage of neural networks may provide an improvement to model performance.
 
 
-### Sentiment Analysis using Deep Learning via Keras/Tensorflow Project (On-going) ###
+## Sentiment Analysis using Deep Learning via Keras/Tensorflow Project (On-going) 
 
 - Usage of Artificial Neural Networks and Convolutional Neural Networks to train neural nets that can understand sentiments of reviews scraped from Rotten Tomatoes and classify them.
