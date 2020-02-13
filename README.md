@@ -98,6 +98,6 @@ To develop a predictive model that will forecast the probability of WNV presence
 - Usage of neural networks may provide an improvement to model performance.
 
 
-## Sentiment Analysis using Deep Learning via Keras/Tensorflow Project (On-going) 
+## Sentiment Analysis using Deep Learning via Keras/Tensorflow Project
 
 - Usage of Artificial Neural Networks and Convolutional Neural Networks to train neural nets that can understand sentiments of reviews scraped from Rotten Tomatoes and classify them.
